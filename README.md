@@ -5,7 +5,7 @@
  - [Demo](https://themewagon.github.io/Brivon/)
 
 #### Download
- - [Download from ThemeWagon](https://themewagon.com/themes/brivon/)
+ - [Download from ThemeWagon](https://themewagon.com/themes/brivon-free-html5-css3-photography-website-template/)
 
 ## Getting Started
 
